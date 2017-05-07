@@ -1,0 +1,52 @@
+
+body{
+	background-color:lightslategrey;
+	text-align:center
+}
+
+title{
+	font-family:"helvetica", sans-serif;
+	text-align:center
+	font-size:16pt;
+}
+
+#mainTitle{
+
+}
+
+#buttonIn{
+
+}
+
+#buttonOut{
+
+}
+
+#authTitle{
+
+}
+
+#x1{
+	word-wrap: break-word;
+	width:50%;
+	margin:auto;
+	border:3px solid black;
+	padding:2px;
+	text-align:center;
+}
+
+#x2{
+	word-wrap: break-word;
+	width:50%;
+	margin:auto;
+	border:3px solid black;
+	padding:2px;
+	text-align:center;
+}
+
+#sec{
+	text-align: center
+}
+
+
+
